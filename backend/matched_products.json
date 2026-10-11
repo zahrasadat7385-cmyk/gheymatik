@@ -1,0 +1,62 @@
+[
+    {
+        "product": "شیر پر چرب میهن - 1 لیتر",
+        "category": "شیر",
+        "digikala": {
+            "product": "شیر پر چرب میهن - 1 لیتر",
+            "price": 169000,
+            "url": "https://www.digikala.com/product/dkp-888354/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888354&variant_id=1771842"
+        },
+        "okala": {
+            "product": "1% شیر پر چرب 3.2% چربی میهن 1 لیتری 160000 158400 تومان",
+            "price": 158400,
+            "url": "https://www.okala.com/product/1297/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1-%DA%86%D8%B1%D8%A8-3.2%25-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C?storeId=7767"
+        },
+        "match_score": 100
+    },
+    {
+        "product": "شیر کاکایو میهن مقدار 0.2 لیتر",
+        "category": "شیر",
+        "digikala": {
+            "product": "شیر کاکایو میهن مقدار 0.2 لیتر",
+            "price": 59000,
+            "url": "https://www.digikala.com/product/dkp-888192/%D8%B4%DB%8C%D8%B1-%DA%A9%D8%A7%DA%A9%D8%A7%D8%A6%D9%88-%D9%85%DB%8C%D9%87%D9%86-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888192&variant_id=1772023"
+        },
+        "okala": {
+            "product": "کالابرگ 10% شیر کاکایو پرچرب 2% چربی میهن 200 میلی لیتری 59000 53100 تومان",
+            "price": 53100,
+            "url": "https://www.okala.com/product/2213/%D8%B4%DB%8C%D8%B1-%DA%A9%D8%A7%DA%A9%D8%A7%D8%A6%D9%88-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-2%25-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%DB%8C%D9%87%D9%86-200-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C?storeId=7767"
+        },
+        "match_score": 100
+    },
+    {
+        "product": "شیر کم چرب میهن -950 میلی لیتر",
+        "category": "شیر",
+        "digikala": {
+            "product": "شیر کم چرب میهن -950 میلی لیتر",
+            "price": 101200,
+            "url": "https://www.digikala.com/product/dkp-888326/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-950-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888326&variant_id=1771860"
+        },
+        "okala": {
+            "product": "25% شیر کم چرب 1.5% چربی میهن 1 لیتری 159000 119250 تومان",
+            "price": 119250,
+            "url": "https://www.okala.com/product/716/%D8%B4%D9%8A%D8%B1-%D9%83%D9%85-%DA%86%D8%B1%D8%A8-1.5%25-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C?storeId=52299"
+        },
+        "match_score": 100
+    },
+    {
+        "product": "شیر کم چرب میهن - 1 لیتر",
+        "category": "شیر",
+        "digikala": {
+            "product": "شیر کم چرب میهن - 1 لیتر",
+            "price": 159000,
+            "url": "https://www.digikala.com/product/dkp-888294/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888294&variant_id=1771938"
+        },
+        "okala": {
+            "product": "15% شیر کم چرب 1.5% چربی میهن 1 لیتری 159000 135150 تومان",
+            "price": 135150,
+            "url": "https://www.okala.com/product/716/%D8%B4%D9%8A%D8%B1-%D9%83%D9%85-%DA%86%D8%B1%D8%A8-1.5%25-%DA%86%D8%B1%D8%A8%DB%8C-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1%DB%8C?storeId=7767"
+        },
+        "match_score": 100
+    }
+]

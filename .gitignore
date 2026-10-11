@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+playwright-report/
+test-results/
+backend/debug_*
+backend/test_*
+backend/*_debug.*
+backend/debug_*
+backend/test_*
+backend/*_debug.*

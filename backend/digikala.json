@@ -1,0 +1,751 @@
+[
+    {
+        "name": "شیر کم‌چرب کاله - 900 میلی لیتر",
+        "price": 100000,
+        "url": "https://www.digikala.com/product/dkp-9006144/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85%DA%86%D8%B1%D8%A8-%DA%A9%D8%A7%D9%84%D9%87-09-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=9006144&variant_id=32064095",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پرچرب دومینو - 1 لیتر بسته 4 عددی",
+        "price": 640000,
+        "url": "https://www.digikala.com/product/dkp-1024217/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88-1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B3%D8%AA%D9%87-4-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=1024217&variant_id=2152921",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "پروشیر با طعم موز کاله پرو - 1000 میلی لیتر",
+        "price": 395000,
+        "url": "https://www.digikala.com/product/dkp-22509862/%D9%BE%D8%B1%D9%88%D8%B4%DB%8C%D8%B1-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D9%85%D9%88%D8%B2-%DA%A9%D8%A7%D9%84%D9%87-%D9%BE%D8%B1%D9%88-1000-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=22509862&variant_id=82782891",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب دومینو - 1 لیتر بسته 4 عددی",
+        "price": 600000,
+        "url": "https://www.digikala.com/product/dkp-1024200/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88-1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B3%D8%AA%D9%87-4-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=1024200&variant_id=2152927",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پر چرب میهن - 1 لیتر",
+        "price": 169000,
+        "url": "https://www.digikala.com/product/dkp-888354/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888354&variant_id=1771842",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کاکائو میهن مقدار 0.2 لیتر",
+        "price": 59000,
+        "url": "https://www.digikala.com/product/dkp-888192/%D8%B4%DB%8C%D8%B1-%DA%A9%D8%A7%DA%A9%D8%A7%D8%A6%D9%88-%D9%85%DB%8C%D9%87%D9%86-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888192&variant_id=1772023",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پر چرب میهن حجم 0.2 لیتر",
+        "price": 41900,
+        "url": "https://www.digikala.com/product/dkp-888351/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-%D8%AD%D8%AC%D9%85-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888351&variant_id=1771933",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب میهن -950 میلی لیتر",
+        "price": 101200,
+        "url": "https://www.digikala.com/product/dkp-888326/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-950-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888326&variant_id=1771860",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب دومینو - 200 میلی لیتر بسته 6 عددی",
+        "price": 243600,
+        "url": "https://www.digikala.com/product/dkp-1024237/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88-200-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B3%D8%AA%D9%87-6-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=1024237&variant_id=2152950",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب میهن - 1 لیتر",
+        "price": 159000,
+        "url": "https://www.digikala.com/product/dkp-888294/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888294&variant_id=1771938",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب میهن حجم 0.2 لیتر",
+        "price": 41900,
+        "url": "https://www.digikala.com/product/dkp-888694/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-%D8%AD%D8%AC%D9%85-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888694&variant_id=1771914",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب روزانه حجم 1 لیتر",
+        "price": 158000,
+        "url": "https://www.digikala.com/product/dkp-774956/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%AD%D8%AC%D9%85-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=774956&variant_id=1674873",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پرچرب دومینو - 1 لیتر",
+        "price": 160000,
+        "url": "https://www.digikala.com/product/dkp-801343/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=801343&variant_id=1674025",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب دومینو مقدار 0.2 لیتر",
+        "price": 40600,
+        "url": "https://www.digikala.com/product/dkp-801354/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%AF%D9%88%D9%85%DB%8C%D9%86%D9%88-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=801354&variant_id=1680040",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب روزانه حجم 0.2 لیتر",
+        "price": 40000,
+        "url": "https://www.digikala.com/product/dkp-775049/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%AD%D8%AC%D9%85-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=775049&variant_id=1674920",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر موز میهن مقدار 0.2 لیتر",
+        "price": 59000,
+        "url": "https://www.digikala.com/product/dkp-888208/%D8%B4%DB%8C%D8%B1-%D9%85%D9%88%D8%B2-%D9%85%DB%8C%D9%87%D9%86-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=888208&variant_id=1771928",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب میهن - 1 لیتر بسته 4 عددی",
+        "price": 636000,
+        "url": "https://www.digikala.com/product/dkp-1623814/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%85%DB%8C%D9%87%D9%86-1-%D9%84%DB%8C%D8%AA%D8%B1-%D8%A8%D8%B3%D8%AA%D9%87-4-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=1623814&variant_id=4214704",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر قهوه کاله حجم 0.2 لیتر",
+        "price": 58000,
+        "url": "https://www.digikala.com/product/dkp-724415/%D8%B4%DB%8C%D8%B1-%D9%82%D9%87%D9%88%D9%87-%DA%A9%D8%A7%D9%84%D9%87-%D8%AD%D8%AC%D9%85-02-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=724415&variant_id=1953380",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر عسل تغلیظ شده کلیددار البحر - 387 گرم مجموعه 2 عددی",
+        "price": 468000,
+        "url": "https://www.digikala.com/product/dkp-12470806/%D8%B4%DB%8C%D8%B1-%D8%B9%D8%B3%D9%84-%D8%AA%D8%BA%D9%84%DB%8C%D8%B8-%D8%B4%D8%AF%D9%87-%DA%A9%D9%84%DB%8C%D8%AF%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-387-%DA%AF%D8%B1%D9%85-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-2-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=12470806&variant_id=55545124",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر قهوه موکا سولاته کاله - 225 میلی‌لیتر",
+        "price": 155000,
+        "url": "https://www.digikala.com/product/dkp-1033598/%D8%B4%DB%8C%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D9%85%D9%88%DA%A9%D8%A7-%D8%B3%D9%88%D9%84%D8%A7%D8%AA%D9%87-%DA%A9%D8%A7%D9%84%D9%87-225-%D9%85%DB%8C%D9%84%DB%8C%D9%84%DB%8C%D8%AA%D8%B1/?product_id=1033598&variant_id=2178176",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پرومیلک کاله پرو با طعم قهوه - 330 میلی لیتر",
+        "price": 169000,
+        "url": "https://www.digikala.com/product/dkp-11649950/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1%D9%88%D9%85%DB%8C%D9%84%DA%A9-%DA%A9%D8%A7%D9%84%D9%87-%D9%BE%D8%B1%D9%88-%D8%A8%D8%A7-%D8%B7%D8%B9%D9%85-%D9%82%D9%87%D9%88%D9%87-330-%D9%85%DB%8C%D9%84%DB%8C-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=11649950&variant_id=40940731",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر قهوه اسپرسو سولاته کاله - 225 میلی‌لیتر",
+        "price": 170000,
+        "url": "https://www.digikala.com/product/dkp-857031/%D8%B4%DB%8C%D8%B1-%D9%82%D9%87%D9%88%D9%87-%D8%A7%D8%B3%D9%BE%D8%B1%D8%B3%D9%88-%D8%B3%D9%88%D9%84%D8%A7%D8%AA%D9%87-%DA%A9%D8%A7%D9%84%D9%87-225-%D9%85%DB%8C%D9%84%DB%8C%D9%84%DB%8C%D8%AA%D8%B1/?product_id=857031&variant_id=1711323",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر کم چرب فرادما کاله- 1 لیتر",
+        "price": 159000,
+        "url": "https://www.digikala.com/product/dkp-1485912/%D8%B4%DB%8C%D8%B1-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D9%81%D8%B1%D8%A7%D8%AF%D9%85%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=1485912&variant_id=3799960",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "پودر شیر خشک بزرگسال کایلا - 900 گرم",
+        "price": 1450000,
+        "url": "https://www.digikala.com/product/dkp-20428381/%D9%BE%D9%88%D8%AF%D8%B1-%D8%B4%DB%8C%D8%B1-%D8%AE%D8%B4%DA%A9-%D8%A8%D8%B2%D8%B1%DA%AF%D8%B3%D8%A7%D9%84-%DA%A9%D8%A7%DB%8C%D9%84%D8%A7-900-%DA%AF%D8%B1%D9%85/?product_id=20428381&variant_id=72316925",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر قهوه کاپوچینو سولاته کاله - 225 میلی‌لیتر",
+        "price": 155000,
+        "url": "https://www.digikala.com/product/dkp-857037/%D8%B4%DB%8C%D8%B1-%D9%82%D9%87%D9%88%D9%87-%DA%A9%D8%A7%D9%BE%D9%88%DA%86%DB%8C%D9%86%D9%88-%D8%B3%D9%88%D9%84%D8%A7%D8%AA%D9%87-%DA%A9%D8%A7%D9%84%D9%87-225-%D9%85%DB%8C%D9%84%DB%8C%D9%84%DB%8C%D8%AA%D8%B1/?product_id=857037&variant_id=1935383",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "شیر پرچرب فرادما کاله - 1 لیتر",
+        "price": 169000,
+        "url": "https://www.digikala.com/product/dkp-1485891/%D8%B4%DB%8C%D8%B1-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-%D9%81%D8%B1%D8%A7%D8%AF%D9%85%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-1-%D9%84%DB%8C%D8%AA%D8%B1/?product_id=1485891&variant_id=3799944",
+        "store": "دیجی‌کالا",
+        "category": "شیر"
+    },
+    {
+        "name": "پنیر لبنه پرچرب آنا کاله - 350 گرم",
+        "price": 235000,
+        "url": "https://www.digikala.com/product/dkp-856935/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%D8%A8%D9%86%D9%87-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-%D8%A2%D9%86%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-350-%DA%AF%D8%B1%D9%85/?product_id=856935&variant_id=1711345",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر صبحانه پاستوریزه دامداران - 400 گرم",
+        "price": 203000,
+        "url": "https://www.digikala.com/product/dkp-22483651/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%D8%AF%D8%A7%D9%85%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-400-%DA%AF%D8%B1%D9%85/?product_id=22483651&variant_id=82712236",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید تازه کم چرب روزانه مقدار 210 گرم",
+        "price": 149000,
+        "url": "https://www.digikala.com/product/dkp-775082/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AA%D8%A7%D8%B2%D9%87-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-210-%DA%AF%D8%B1%D9%85/?product_id=775082&variant_id=1674858",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید تازه کم چرب روزانه مقدار 515 گرم",
+        "price": 326000,
+        "url": "https://www.digikala.com/product/dkp-775122/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AA%D8%A7%D8%B2%D9%87-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-515-%DA%AF%D8%B1%D9%85/?product_id=775122&variant_id=1674868",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید تازه تی فتا کاله - 400 گرم",
+        "price": 203000,
+        "url": "https://www.digikala.com/product/dkp-1055435/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AA%D8%A7%D8%B2%D9%87-%DA%A9%D8%A7%D9%84%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=1055435&variant_id=2240344",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید ایرانی پگاه - 400 گرم",
+        "price": 203000,
+        "url": "https://www.digikala.com/product/dkp-9116433/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%BE%DA%AF%D8%A7%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=9116433&variant_id=32714907",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر پنج ستاره آمل کلاسیک کاله- 350 گرم",
+        "price": 233000,
+        "url": "https://www.digikala.com/product/dkp-1016692/%D9%BE%D9%86%DB%8C%D8%B1-%D9%BE%D9%86%D8%AC-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A2%D9%85%D9%84-%DA%A9%D9%84%D8%A7%D8%B3%DB%8C%DA%A9-%DA%A9%D8%A7%D9%84%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=1016692&variant_id=2126080",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر کبابی هالومی کاله - 400 گرم",
+        "price": 650000,
+        "url": "https://www.digikala.com/product/dkp-939205/%D9%BE%D9%86%DB%8C%D8%B1-%DA%A9%D8%A8%D8%A7%D8%A8%DB%8C-%D9%87%D8%A7%D9%84%D9%88%D9%85%DB%8C-%DA%A9%D8%A7%D9%84%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=939205&variant_id=1953229",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر صبحانه پنج ستاره آمل اسپرید کاله - 350 گرم",
+        "price": 233000,
+        "url": "https://www.digikala.com/product/dkp-22510244/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D9%BE%D9%86%D8%AC-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A2%D9%85%D9%84-%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D8%AF-%DA%A9%D8%A7%D9%84%D9%87-350-%DA%AF%D8%B1%D9%85/?product_id=22510244&variant_id=82783039",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر پنج ستاره آمل کم چرب کاله - 350 گرم",
+        "price": 233000,
+        "url": "https://www.digikala.com/product/dkp-1016769/%D9%BE%D9%86%DB%8C%D8%B1-%D9%BE%D9%86%D8%AC-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D8%A2%D9%85%D9%84-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%DA%A9%D8%A7%D9%84%D9%87-350-%DA%AF%D8%B1%D9%85/?product_id=1016769&variant_id=2126095",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر فتا دوشه هراز - 400 گرم",
+        "price": 229000,
+        "url": "https://www.digikala.com/product/dkp-1485597/%D9%BE%D9%86%DB%8C%D8%B1-%D9%81%D8%AA%D8%A7-%D8%AF%D9%88%D8%B4%D9%87-%D9%87%D8%B1%D8%A7%D8%B2-400-%DA%AF%D8%B1%D9%85/?product_id=1485597&variant_id=4451811",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید تازه روزانه مقدار 210 گرم",
+        "price": 149000,
+        "url": "https://www.digikala.com/product/dkp-775129/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D8%AA%D8%A7%D8%B2%D9%87-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-210-%DA%AF%D8%B1%D9%85/?product_id=775129&variant_id=1674757",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر صبحانه پرچرب آنا کاله - 1000 گرم",
+        "price": 547000,
+        "url": "https://www.digikala.com/product/dkp-5261655/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D9%BE%D8%B1%DA%86%D8%B1%D8%A8-%D8%A2%D9%86%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-1000-%DA%AF%D8%B1%D9%85/?product_id=5261655&variant_id=17086412",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر لیقوان اصل - ۱۰۰۰ گرم",
+        "price": 1270000,
+        "url": "https://www.digikala.com/product/dkp-22434526/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%DB%8C%D9%82%D9%88%D8%A7%D9%86-%D8%A7%D8%B5%D9%84-%DB%B1%DB%B0%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85/?product_id=22434526&variant_id=83261656",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر چدار آلیما - 400 گرم",
+        "price": 345000,
+        "url": "https://www.digikala.com/product/dkp-10392774/%D9%BE%D9%86%DB%8C%D8%B1-%DA%86%D8%AF%D8%A7%D8%B1-%D8%A2%D9%84%DB%8C%D9%85%D8%A7-400-%DA%AF%D8%B1%D9%85/?product_id=10392774&variant_id=37534938",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر سفید میهن مقدار 210 گرم",
+        "price": 134000,
+        "url": "https://www.digikala.com/product/dkp-888531/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B3%D9%81%DB%8C%D8%AF-%D9%85%DB%8C%D9%87%D9%86-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-210-%DA%AF%D8%B1%D9%85/?product_id=888531&variant_id=1771908",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر لیقوان - 1000 گرم",
+        "price": 1770000,
+        "url": "https://www.digikala.com/product/dkp-22395851/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%DB%8C%D9%82%D9%88%D8%A7%D9%86-1000-%DA%AF%D8%B1%D9%85/?product_id=22395851&variant_id=82928301",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر لبنه کم چرب آنا کاله - 350 گرم",
+        "price": 235000,
+        "url": "https://www.digikala.com/product/dkp-7962775/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%D8%A8%D9%86%D9%87-%DA%A9%D9%85-%DA%86%D8%B1%D8%A8-%D8%A2%D9%86%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-350-%DA%AF%D8%B1%D9%85/?product_id=7962775&variant_id=28044663",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر لاکتیکی تی فتا کاله - 300 گرم",
+        "price": 199500,
+        "url": "https://www.digikala.com/product/dkp-1055439/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%D8%A7%DA%A9%D8%AA%DB%8C%DA%A9%DB%8C-%DA%A9%D8%A7%D9%84%D9%87-300-%DA%AF%D8%B1%D9%85/?product_id=1055439&variant_id=2240345",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر صبحانه اماه کاله - 400 گرم",
+        "price": 215000,
+        "url": "https://www.digikala.com/product/dkp-12933009/%D9%BE%D9%86%DB%8C%D8%B1-%D8%B5%D8%A8%D8%AD%D8%A7%D9%86%D9%87-%D8%A7%D9%85%D8%A7%D9%87-%DA%A9%D8%A7%D9%84%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=12933009&variant_id=44602575",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پودر پنیر پارمسان کاله - 100 گرم",
+        "price": 380000,
+        "url": "https://www.digikala.com/product/dkp-939171/%D9%BE%D9%88%D8%AF%D8%B1-%D9%BE%D9%86%DB%8C%D8%B1-%D9%BE%D8%A7%D8%B1%D9%85%D8%B3%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D9%87-100-%DA%AF%D8%B1%D9%85/?product_id=939171&variant_id=1953295",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر کممبر کاله - 125 گرم",
+        "price": 510000,
+        "url": "https://www.digikala.com/product/dkp-13524492/%D9%BE%D9%86%DB%8C%D8%B1-%DA%A9%D9%85%D9%85%D8%A8%D8%B1-%DA%A9%D8%A7%D9%84%D9%87-125-%DA%AF%D8%B1%D9%85/?product_id=13524492&variant_id=46867262",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر لبنه آنا کاله - 200 گرم",
+        "price": 135000,
+        "url": "https://www.digikala.com/product/dkp-2398919/%D9%BE%D9%86%DB%8C%D8%B1-%D9%84%D8%A8%D9%86%D9%87-%D8%A2%D9%86%D8%A7-%DA%A9%D8%A7%D9%84%D9%87-200-%DA%AF%D8%B1%D9%85/?product_id=2398919&variant_id=7096698",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "پنیر موزارلا رشته ای کاله - 200 گرم",
+        "price": 375000,
+        "url": "https://www.digikala.com/product/dkp-938639/%D9%BE%D9%86%DB%8C%D8%B1-%D9%85%D9%88%D8%B2%D8%A7%D8%B1%D9%84%D8%A7-%D8%B1%D8%B4%D8%AA%D9%87-%D8%A7%DB%8C-%DA%A9%D8%A7%D9%84%D9%87-200-%DA%AF%D8%B1%D9%85/?product_id=938639&variant_id=1953310",
+        "store": "دیجی‌کالا",
+        "category": "پنیر"
+    },
+    {
+        "name": "کره جغرافیایی مدل آوا سایز 16",
+        "price": 500000,
+        "url": "https://www.digikala.com/product/dkp-532880/%DA%A9%D8%B1%D9%87-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-%D8%A2%D9%88%D8%A7-%D8%B3%D8%A7%DB%8C%D8%B2-16/?product_id=532880&variant_id=79149273",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "پودر کره معطر سرمد - 450 گرم",
+        "price": 400000,
+        "url": "https://www.digikala.com/product/dkp-21992798/%D9%BE%D9%88%D8%AF%D8%B1-%DA%A9%D8%B1%D9%87-%D9%85%D8%B9%D8%B7%D8%B1-%D8%B3%D8%B1%D9%85%D8%AF-450-%DA%AF%D8%B1%D9%85/?product_id=21992798&variant_id=80246832",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره محلی اذربایجان لیقوان - 500 گرم",
+        "price": 570000,
+        "url": "https://www.digikala.com/product/dkp-22818574/%DA%A9%D8%B1%D9%87-%D9%85%D8%AD%D9%84%DB%8C-%D8%A7%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%A7%D8%B5%D9%84-%D9%84%DB%8C%D9%82%D9%88%D8%A7%D9%86-500-%DA%AF%D8%B1%D9%85%DB%8C/?product_id=22818574&variant_id=84159666",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره نارگیل آنجیل - 250 گرم",
+        "price": 460000,
+        "url": "https://www.digikala.com/product/dkp-21367614/%DA%A9%D8%B1%D9%87-%D9%86%D8%A7%D8%B1%DA%AF%DB%8C%D9%84-%D8%A2%D9%86%D8%AC%DB%8C%D9%84-250-%DA%AF%D8%B1%D9%85/?product_id=21367614&variant_id=76750118",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره جغرافیایی مدل پایه فلزی سایز 23",
+        "price": 1557000,
+        "url": "https://www.digikala.com/product/dkp-489645/%DA%A9%D8%B1%D9%87-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-%D9%BE%D8%A7%DB%8C%D9%87-%D9%81%D9%84%D8%B2%DB%8C-%D8%B3%D8%A7%DB%8C%D8%B2-23/?product_id=489645&variant_id=74757043",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره خالص پسته آنجیل - ۴۰۰ گرم",
+        "price": 3750000,
+        "url": "https://www.digikala.com/product/dkp-21367553/%DA%A9%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D8%B5-%D9%BE%D8%B3%D8%AA%D9%87-%D8%A2%D9%86%D8%AC%DB%8C%D9%84-%DB%B4%DB%B0%DB%B0-%DA%AF%D8%B1%D9%85/?product_id=21367553&variant_id=76741195",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره بدن ایمنس هربال مدل VIP_TROPICAL با عصاره میوه‌های استوایی، مرطوب‌کننده و تغذیه‌کننده پوست، حاوی کره کاکائو، شی باتر، روغن جوجوبا و ویتامین ای، مناسب انواع پوست، ضد خشکی و ضد آفتاب‌سوختگی، وزن 150 گرم",
+        "price": 349000,
+        "url": "https://www.digikala.com/product/dkp-18850148/%DA%A9%D8%B1%D9%87-%D8%A8%D8%AF%D9%86-%D8%A7%DB%8C%D9%85%D9%86%D8%B3-%D9%87%D8%B1%D8%A8%D8%A7%D9%84-%D9%85%D8%AF%D9%84-vip-tropical-%D8%A8%D8%A7-%D8%B9%D8%B5%D8%A7%D8%B1%D9%87-%D9%85%DB%8C%D9%88%D9%87%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%DB%8C%DB%8C-%D9%85%D8%B1%D8%B7%D9%88%D8%A8%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%88-%D8%AA%D8%BA%D8%B0%DB%8C%D9%87%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%BE%D9%88%D8%B3%D8%AA-%D8%AD%D8%A7%D9%88%DB%8C-%DA%A9%D8%B1%D9%87-%DA%A9%D8%A7%DA%A9%D8%A7%D8%A6%D9%88-%D8%B4%DB%8C-%D8%A8%D8%A7%D8%AA%D8%B1-%D8%B1%D9%88%D8%BA%D9%86-%D8%AC%D9%88%D8%AC%D9%88%D8%A8%D8%A7-%D9%88-%D9%88%DB%8C%D8%AA%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%DB%8C-%D9%85%D9%86%D8%A7%D8%B3%D8%A8-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%BE%D9%88%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%AE%D8%B4%DA%A9%DB%8C-%D9%88-%D8%B6%D8%AF-%D8%A2%D9%81%D8%AA%D8%A7%D8%A8%D8%B3%D9%88%D8%AE%D8%AA%DA%AF%DB%8C-%D9%88%D8%B2%D9%86-150-%DA%AF%D8%B1%D9%85/?product_id=18850148&variant_id=79044959",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره جغرافیایی مدل تحریر کد 1616",
+        "price": 495000,
+        "url": "https://www.digikala.com/product/dkp-7050987/%DA%A9%D8%B1%D9%87-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%A9%D8%AF-1616/?product_id=7050987&variant_id=64313642",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره جغرافیایی مدل موتور دار چرخان کد 1800.17",
+        "price": 1570000,
+        "url": "https://www.digikala.com/product/dkp-7322397/%DA%A9%D8%B1%D9%87-%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%DB%8C%D8%A7%DB%8C%DB%8C-%D9%85%D8%AF%D9%84-%D9%85%D9%88%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%D8%B1-%DA%86%D8%B1%D8%AE%D8%A7%D9%86-%DA%A9%D8%AF-180017/?product_id=7322397&variant_id=79352449",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره کاله - 50 گرم",
+        "price": 63000,
+        "url": "https://www.digikala.com/product/dkp-5193197/%DA%A9%D8%B1%D9%87-%DA%A9%D8%A7%D9%84%D9%87-50-%DA%AF%D8%B1%D9%85/?product_id=5193197&variant_id=16737648",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره کاله - 100 گرم",
+        "price": 119900,
+        "url": "https://www.digikala.com/product/dkp-5193203/%DA%A9%D8%B1%D9%87-%DA%A9%D8%A7%D9%84%D9%87-100-%DA%AF%D8%B1%D9%85/?product_id=5193203&variant_id=16737313",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "روغن کره حیوانی جامد کاله - 400 گرم",
+        "price": 655000,
+        "url": "https://www.digikala.com/product/dkp-6561024/%D8%B1%D9%88%D8%BA%D9%86-%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D8%AC%D8%A7%D9%85%D8%AF-%DA%A9%D8%A7%D9%84%D9%87-400-%DA%AF%D8%B1%D9%85/?product_id=6561024&variant_id=22387709",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره پاستوریزه لاکتیکی کالین - 1000 گرم",
+        "price": 1076000,
+        "url": "https://www.digikala.com/product/dkp-13129998/%DA%A9%D8%B1%D9%87-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%D9%84%D8%A7%DA%A9%D8%AA%DB%8C%DA%A9%DB%8C-%DA%A9%D8%A7%D9%84%DB%8C%D9%86-1000-%DA%AF%D8%B1%D9%85/?product_id=13129998&variant_id=45549425",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره حیوانی پاستوریزه میهن 50 گرم",
+        "price": 64200,
+        "url": "https://www.digikala.com/product/dkp-939299/%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%D9%85%DB%8C%D9%87%D9%86-50-%DA%AF%D8%B1%D9%85/?product_id=939299&variant_id=1954439",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره حیوانی پاستوریزه کالین - 50 گرم",
+        "price": 64000,
+        "url": "https://www.digikala.com/product/dkp-1023957/%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%DA%A9%D8%A7%D9%84%DB%8C%D9%86-50-%DA%AF%D8%B1%D9%85/?product_id=1023957&variant_id=3944330",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره حیوانی پاستوریزه کالین - 100 گرم",
+        "price": 120000,
+        "url": "https://www.digikala.com/product/dkp-1023933/%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%DA%A9%D8%A7%D9%84%DB%8C%D9%86-100-%DA%AF%D8%B1%D9%85/?product_id=1023933&variant_id=3735078",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره حیوانی بدون نمک دهناد - 100 گرم",
+        "price": 119000,
+        "url": "https://www.digikala.com/product/dkp-22352997/%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%85%DA%A9-%D8%AF%D9%87%D9%86%D8%A7%D8%AF-100-%DA%AF%D8%B1%D9%85/?product_id=22352997&variant_id=81991170",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره حیوانی پاستوریزه شکلی 100 گرم",
+        "price": 119900,
+        "url": "https://www.digikala.com/product/dkp-939384/%DA%A9%D8%B1%D9%87-%D8%AD%DB%8C%D9%88%D8%A7%D9%86%DB%8C-%D9%BE%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%DB%8C%D8%B2%D9%87-%D8%B4%DA%A9%D9%84%DB%8C-100-%DA%AF%D8%B1%D9%85/?product_id=939384&variant_id=1954530",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "کره غیر لاکتیکی بدون نمک پگاه - 100 گرم",
+        "price": 119900,
+        "url": "https://www.digikala.com/product/dkp-13603003/%DA%A9%D8%B1%D9%87-%D8%BA%DB%8C%D8%B1-%D9%84%D8%A7%DA%A9%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%AF%D9%88%D9%86-%D9%86%D9%85%DA%A9-%D9%BE%DA%AF%D8%A7%D9%87-100-%DA%AF%D8%B1%D9%85/?product_id=13603003&variant_id=46994215",
+        "store": "دیجی‌کالا",
+        "category": "کره"
+    },
+    {
+        "name": "مربای آلبالو ماهوند - 820 گرم",
+        "price": 413290,
+        "url": "https://www.digikala.com/product/dkp-3932239/%D9%85%D8%B1%D8%A8%D8%A7%DB%8C-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D9%85%D8%A7%D9%87%D9%88%D9%86%D8%AF-820-%DA%AF%D8%B1%D9%85/?ad_variant_id=12841736&product_id=3932239&variant_id=12841736",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا توت فرنگی فدک - 1200 گرم",
+        "price": 700000,
+        "url": "https://www.digikala.com/product/dkp-7969550/%D9%85%D8%B1%D8%A8%D8%A7-%D8%AA%D9%88%D8%AA-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D9%81%D8%AF%DA%A9-1200-%DA%AF%D8%B1%D9%85/?product_id=7969550&variant_id=29258552",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربای بالنگ ماهوند - 800 گرم",
+        "price": 293670,
+        "url": "https://www.digikala.com/product/dkp-3932988/%D9%85%D8%B1%D8%A8%D8%A7%DB%8C-%D8%A8%D8%A7%D9%84%D9%86%DA%AF-%D9%85%D8%A7%D9%87%D9%88%D9%86%D8%AF-800-%DA%AF%D8%B1%D9%85/?ad_variant_id=12841647&product_id=3932988&variant_id=12841647",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا توت فرنگی ماهوند - 800 گرم",
+        "price": 354460,
+        "url": "https://www.digikala.com/product/dkp-4257055/%D9%85%D8%B1%D8%A8%D8%A7-%D8%AA%D9%88%D8%AA-%D9%81%D8%B1%D9%86%DA%AF%DB%8C-%D9%85%D8%A7%D9%87%D9%88%D9%86%D8%AF-800-%DA%AF%D8%B1%D9%85/?ad_variant_id=13615504&product_id=4257055&variant_id=13615504",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا گل محمدی سحرانا - 400 گرم",
+        "price": 550000,
+        "url": "https://www.digikala.com/product/dkp-8774134/%D9%85%D8%B1%D8%A8%D8%A7-%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%D8%B3%D8%AD%D8%B1%D8%A7%D9%86%D8%A7-400-%DA%AF%D8%B1%D9%85/?product_id=8774134&variant_id=31120110",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا آلبالو خانگی سحرانا - 400 گرم",
+        "price": 360000,
+        "url": "https://www.digikala.com/product/dkp-8820847/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B3%D8%AD%D8%B1%D8%A7%D9%86%D8%A7-400-%DA%AF%D8%B1%D9%85/?product_id=8820847&variant_id=31248415",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا بالنگ فدک - 1200 گرم",
+        "price": 700000,
+        "url": "https://www.digikala.com/product/dkp-7969636/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A8%D8%A7%D9%84%D9%86%DA%AF-%D9%81%D8%AF%DA%A9-1200-%DA%AF%D8%B1%D9%85/?product_id=7969636&variant_id=29258547",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا هویج بدون قند کامور مقدار 280 گرم",
+        "price": 395400,
+        "url": "https://www.digikala.com/product/dkp-2340227/%D9%85%D8%B1%D8%A8%D8%A7-%D9%87%D9%88%DB%8C%D8%AC-%D8%A8%D8%AF%D9%88%D9%86-%D9%82%D9%86%D8%AF-%DA%A9%D8%A7%D9%85%D9%88%D8%B1-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-280-%DA%AF%D8%B1%D9%85/?product_id=2340227&variant_id=48365318",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا آلبالو فدک - 900 گرم",
+        "price": 700000,
+        "url": "https://www.digikala.com/product/dkp-8379371/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D9%81%D8%AF%DA%A9-900-%DA%AF%D8%B1%D9%85/?product_id=8379371&variant_id=30191588",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا تمشک جنگلی زنان سرزمین من - 400 گرم",
+        "price": 294700,
+        "url": "https://www.digikala.com/product/dkp-22566297/%D9%85%D8%B1%D8%A8%D8%A7-%D8%AA%D9%85%D8%B4%DA%A9-%D8%AC%D9%86%DA%AF%D9%84%DB%8C-%D8%B2%D9%86%D8%A7%D9%86-%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D9%86-400%DA%AF%D8%B1%D9%85/?product_id=22566297&variant_id=82938097",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا به اصالت - 310 گرم",
+        "price": 149000,
+        "url": "https://www.digikala.com/product/dkp-750366/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A8%D9%87-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-310-%DA%AF%D8%B1%D9%85/?product_id=750366&variant_id=1671559",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربای آلبالو ماهوند - 820 گرم",
+        "price": 413290,
+        "url": "https://www.digikala.com/product/dkp-3932239/%D9%85%D8%B1%D8%A8%D8%A7%DB%8C-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D9%85%D8%A7%D9%87%D9%88%D9%86%D8%AF-820-%DA%AF%D8%B1%D9%85/?product_id=3932239&variant_id=12841736",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا انجیر خانگی زنان سرزمین من-400گرم",
+        "price": 235010,
+        "url": "https://www.digikala.com/product/dkp-21928989/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A7%D9%86%D8%AC%DB%8C%D8%B1-%D8%AE%D8%A7%D9%86%DA%AF%DB%8C-%D8%B2%D9%86%D8%A7%D9%86-%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D9%86-400%DA%AF%D8%B1%D9%85/?product_id=21928989&variant_id=79978605",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا به سحر - 390 گرم",
+        "price": 165000,
+        "url": "https://www.digikala.com/product/dkp-2571247/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A8%D9%87-%D8%B3%D8%AD%D8%B1-390-%DA%AF%D8%B1%D9%85/?product_id=2571247&variant_id=8838404",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا آلبالو همدست - 600 گرم",
+        "price": 491900,
+        "url": "https://www.digikala.com/product/dkp-19901956/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D9%87%D9%85%D8%AF%D8%B3%D8%AA-600-%DA%AF%D8%B1%D9%85/?product_id=19901956&variant_id=76153342",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا بدون قند گل محمدی کامور مقدار ۲۸۰ گرم",
+        "price": 395400,
+        "url": "https://www.digikala.com/product/dkp-2341140/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A8%D8%AF%D9%88%D9%86-%D9%82%D9%86%D8%AF-%DA%AF%D9%84-%D9%85%D8%AD%D9%85%D8%AF%DB%8C-%DA%A9%D8%A7%D9%85%D9%88%D8%B1-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-%DB%B2%DB%B8%DB%B0-%DA%AF%D8%B1%D9%85/?product_id=2341140&variant_id=48365276",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا آلبالو اصالت - 310 گرم",
+        "price": 265000,
+        "url": "https://www.digikala.com/product/dkp-750379/%D9%85%D8%B1%D8%A8%D8%A7-%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88-%D8%A7%D8%B5%D8%A7%D9%84%D8%AA-310-%DA%AF%D8%B1%D9%85/?product_id=750379&variant_id=1671575",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا هویج فدک - 450 گرم",
+        "price": 350000,
+        "url": "https://www.digikala.com/product/dkp-13276132/%D9%85%D8%B1%D8%A8%D8%A7-%D9%87%D9%88%DB%8C%D8%AC-%D9%81%D8%AF%DA%A9-450-%DA%AF%D8%B1%D9%85/?product_id=13276132&variant_id=45825715",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "مربا هلو شانا - 305 گرم",
+        "price": 240000,
+        "url": "https://www.digikala.com/product/dkp-511623/%D9%85%D8%B1%D8%A8%D8%A7-%D9%87%D9%84%D9%88-%D8%B4%D8%A7%D9%86%D8%A7-310-%DA%AF%D8%B1%D9%85/?product_id=511623&variant_id=981212",
+        "store": "دیجی‌کالا",
+        "category": "مربا"
+    },
+    {
+        "name": "تخم مرغ تزیینی مدل پلاستیکی بسته 10عددی",
+        "price": 107600,
+        "url": "https://www.digikala.com/product/dkp-7989939/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%AA%D8%B2%DB%8C%DB%8C%D9%86%DB%8C-%D9%85%D8%AF%D9%84-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%D8%A8%D8%B3%D8%AA%D9%87-10%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=7989939&variant_id=66559863",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید B تلاونگ بسته 20 عددی",
+        "price": 480000,
+        "url": "https://www.digikala.com/product/dkp-784925/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-b-%D8%AA%D9%84%D8%A7%D9%88%D9%86%DA%AF-%D8%A8%D8%B3%D8%AA%D9%87-20-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=784925&variant_id=1671682",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ تزیینی مدل پلاستیکی کد 03 مجموعه 3 عددی",
+        "price": 64000,
+        "url": "https://www.digikala.com/product/dkp-17375321/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%AA%D8%B2%DB%8C%DB%8C%D9%86%DB%8C-%D9%85%D8%AF%D9%84-%D9%BE%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9%DB%8C-%DA%A9%D8%AF-03-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-3-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=17375321&variant_id=75633991",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ Fresh بسته 20 عددی گرید A",
+        "price": 540000,
+        "url": "https://www.digikala.com/product/dkp-17729012/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-fresh-%D8%A8%D8%B3%D8%AA%D9%87-20-%D8%B9%D8%AF%D8%AF%DB%8C-%DA%AF%D8%B1%DB%8C%D8%AF-a/?product_id=17729012&variant_id=61939956",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ Fresh بسته 15 عددی گرید A",
+        "price": 405000,
+        "url": "https://www.digikala.com/product/dkp-17729011/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-fresh-%D8%A8%D8%B3%D8%AA%D9%87-15-%D8%B9%D8%AF%D8%AF%DB%8C-%DA%AF%D8%B1%DB%8C%D8%AF-a/?product_id=17729011&variant_id=61939991",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم‌مرغ پز مدل TKH730 با ظرفیت هفت عدد تخم‌مرغ",
+        "price": 80000,
+        "url": "https://www.digikala.com/product/dkp-3438204/%D8%AA%D8%AE%D9%85%D9%85%D8%B1%D8%BA-%D9%BE%D8%B2-%D9%85%D8%AF%D9%84-tkh730-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D9%87%D9%81%D8%AA-%D8%B9%D8%AF%D8%AF-%D8%AA%D8%AE%D9%85%D9%85%D8%B1%D8%BA/?product_id=3438204&variant_id=68628008",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ تزیینی کد T99 بسته 5عددی",
+        "price": 136000,
+        "url": "https://www.digikala.com/product/dkp-2514517/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%AA%D8%B2%DB%8C%DB%8C%D9%86%DB%8C-%DA%A9%D8%AF-t99-%D8%A8%D8%B3%D8%AA%D9%87-5%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=2514517&variant_id=79048584",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید B تلاونگ بسته 15 عددی",
+        "price": 360000,
+        "url": "https://www.digikala.com/product/dkp-784940/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-b-%D8%AA%D9%84%D8%A7%D9%88%D9%86%DA%AF-%D8%A8%D8%B3%D8%AA%D9%87-15-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=784940&variant_id=1671688",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ تزیینی کد TOSM10 بسته 10 عددی",
+        "price": 176700,
+        "url": "https://www.digikala.com/product/dkp-8419241/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%AA%D8%B2%DB%8C%DB%8C%D9%86%DB%8C-%DA%A9%D8%AF-tosm10-%D8%A8%D8%B3%D8%AA%D9%87-10-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=8419241&variant_id=64000123",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید A سیمرغ بسته 20 عددی",
+        "price": 540000,
+        "url": "https://www.digikala.com/product/dkp-15945854/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-a-%D8%B3%DB%8C%D9%85%D8%B1%D8%BA-%D8%A8%D8%B3%D8%AA%D9%87-20-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=15945854&variant_id=59954167",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید B تلاونگ بسته 6 عددی",
+        "price": 144000,
+        "url": "https://www.digikala.com/product/dkp-784936/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-b-%D8%AA%D9%84%D8%A7%D9%88%D9%86%DA%AF-%D8%A8%D8%B3%D8%AA%D9%87-6-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=784936&variant_id=1671639",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید A  فرش بسته 9 عددی",
+        "price": 243000,
+        "url": "https://www.digikala.com/product/dkp-17729010/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-a-%D9%81%D8%B1%D8%B4-%D8%A8%D8%B3%D8%AA%D9%87-9-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=17729010&variant_id=61940019",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید B تلاونگ بسته 9 عددی",
+        "price": 216000,
+        "url": "https://www.digikala.com/product/dkp-784939/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-b-%D8%AA%D9%84%D8%A7%D9%88%D9%86%DA%AF-%D8%A8%D8%B3%D8%AA%D9%87-9-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=784939&variant_id=1671674",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "سفیده تخم مرغ مایع تلاونگ مقدار 350 گرم",
+        "price": 244900,
+        "url": "https://www.digikala.com/product/dkp-784918/%D8%B3%D9%81%DB%8C%D8%AF%D9%87-%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D9%85%D8%A7%DB%8C%D8%B9-%D8%AA%D9%84%D8%A7%D9%88%D9%86%DA%AF-%D9%85%D9%82%D8%AF%D8%A7%D8%B1-350-%DA%AF%D8%B1%D9%85/?product_id=784918&variant_id=1671618",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید A فرش بسته 6 عددی",
+        "price": 162000,
+        "url": "https://www.digikala.com/product/dkp-17728925/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-a-%D9%81%D8%B1%D8%B4-%D8%A8%D8%B3%D8%AA%D9%87-6-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=17728925&variant_id=62028657",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید A سیمرغ بسته 24 عددی",
+        "price": 648000,
+        "url": "https://www.digikala.com/product/dkp-15945891/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-a-%D8%B3%DB%8C%D9%85%D8%B1%D8%BA-%D8%A8%D8%B3%D8%AA%D9%87-24-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=15945891&variant_id=59954089",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم‌مرغ پز مدل 6EGGS با ظرفیت شش عدد تخم‌مرغ",
+        "price": 4000000,
+        "url": "https://www.digikala.com/product/dkp-21062703/%D8%AA%D8%AE%D9%85%D9%85%D8%B1%D8%BA-%D9%BE%D8%B2-%D9%85%D8%AF%D9%84-6eggs-%D8%A8%D8%A7-%D8%B8%D8%B1%D9%81%DB%8C%D8%AA-%D8%B4%D8%B4-%D8%B9%D8%AF%D8%AF-%D8%AA%D8%AE%D9%85%D9%85%D8%B1%D8%BA/?product_id=21062703&variant_id=80933923",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ گرید A سیمرغ - بسته 15 عددی",
+        "price": 405000,
+        "url": "https://www.digikala.com/product/dkp-15945714/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%DA%AF%D8%B1%DB%8C%D8%AF-a-%D8%B3%DB%8C%D9%85%D8%B1%D8%BA-%D8%A8%D8%B3%D8%AA%D9%87-15-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=15945714&variant_id=59954186",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    },
+    {
+        "name": "تخم مرغ سفالی خام کد 20 مجموعه 10 عددی",
+        "price": 99000,
+        "url": "https://www.digikala.com/product/dkp-14259841/%D8%AA%D8%AE%D9%85-%D9%85%D8%B1%D8%BA-%D8%B3%D9%81%D8%A7%D9%84%DB%8C-%D8%AE%D8%A7%D9%85-%DA%A9%D8%AF-20-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-10-%D8%B9%D8%AF%D8%AF%DB%8C/?product_id=14259841&variant_id=49124541",
+        "store": "دیجی‌کالا",
+        "category": "تخم مرغ"
+    }
+]
