@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>قیمتیک | مقایسه هوشمند قیمت</title>
+
+    <meta
+        name="description"
+        content="قیمتیک؛ مقایسه هوشمند قیمت محصولات و پیدا کردن بهترین قیمت"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+    <!-- ================= HEADER ================= -->
+
+    <header class="site-header">
+
+        <div class="header-container">
+
+            <a href="#" class="logo">
+                <span class="logo-icon">ق</span>
+                <span>قیمتیک</span>
+            </a>
+
+
+            <nav class="main-nav">
+
+                <a href="#home">
+                    خانه
+                </a>
+
+                <a href="#products">
+                    محصولات
+                </a>
+
+                <a href="#about">
+                    درباره ما
+                </a>
+
+            </nav>
+
+
+            <div class="header-badge">
+                مقایسه هوشمند قیمت
+            </div>
+
+        </div>
+
+    </header>
+
+
+
+    <!-- ================= HERO ================= -->
+
+    <main id="home">
+
+        <section class="hero">
+
+            <div class="hero-content">
+
+                <div class="hero-text">
+
+                    <span class="hero-label">
+                        مقایسه هوشمند قیمت
+                    </span>
+
+                    <h1>
+                        بهترین قیمت را
+                        <span>پیدا کن.</span>
+                    </h1>
+
+                    <p>
+                        قیمت محصولات را مقایسه کن،
+                        برندهای مختلف را ببین و
+                        بهترین انتخاب را با قیمت مناسب پیدا کن.
+                    </p>
+
+
+                    <!-- SEARCH -->
+
+                    <div class="search-box">
+
+                        <input
+                            type="text"
+                            id="searchInput"
+                            placeholder="نام محصول یا برند را جستجو کنید..."
+                            autocomplete="off"
+                        >
+
+                        <button
+                            id="searchButton"
+                            type="button"
+                        >
+                            🔍 جستجو
+                        </button>
+
+                    </div>
+
+                </div>
+
+
+                <div class="hero-card">
+
+                    <div class="hero-card-icon">
+                        💰
+                    </div>
+
+                    <div>
+
+                        <strong>
+                            قیمت بهتر، انتخاب بهتر
+                        </strong>
+
+                        <p>
+                            قبل از خرید قیمت‌ها را مقایسه کن.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ================= CATEGORIES ================= -->
+
+        <section class="categories-section">
+
+            <div class="section-container">
+
+                <div class="section-heading">
+
+                    <div>
+
+                        <span class="section-label">
+                            دسته‌بندی محصولات
+                        </span>
+
+                        <h2>
+                            چی می‌خوای مقایسه کنی؟
+                        </h2>
+
+                    </div>
+
+                </div>
+
+
+                <div
+                    id="categoryButtons"
+                    class="category-grid"
+                >
+
+                    <!-- شیر -->
+
+                    <button
+                        type="button"
+                        class="category-card category-button active"
+                        data-category="شیر"
+                    >
+
+                        <div class="category-icon">
+                            🥛
+                        </div>
+
+                        <div class="category-info">
+
+                            <strong>
+                                شیر
+                            </strong>
+
+                            <span>
+                                مقایسه دیجی‌کالا و اکالا
+                            </span>
+
+                        </div>
+
+                    </button>
+
+
+                    <!-- پنیر -->
+
+                    <button
+                        type="button"
+                        class="category-card category-button"
+                        data-category="پنیر"
+                    >
+
+                        <div class="category-icon">
+                            🧀
+                        </div>
+
+                        <div class="category-info">
+
+                            <strong>
+                                پنیر
+                            </strong>
+
+                            <span>
+                                مقایسه برندها
+                            </span>
+
+                        </div>
+
+                    </button>
+
+
+                    <!-- کره -->
+
+                    <button
+                        type="button"
+                        class="category-card category-button"
+                        data-category="کره"
+                    >
+
+                        <div class="category-icon">
+                            🧈
+                        </div>
+
+                        <div class="category-info">
+
+                            <strong>
+                                کره
+                            </strong>
+
+                            <span>
+                                مقایسه برندها
+                            </span>
+
+                        </div>
+
+                    </button>
+
+
+                    <!-- مربا -->
+
+                    <button
+                        type="button"
+                        class="category-card category-button"
+                        data-category="مربا"
+                    >
+
+                        <div class="category-icon">
+                            🍓
+                        </div>
+
+                        <div class="category-info">
+
+                            <strong>
+                                مربا
+                            </strong>
+
+                            <span>
+                                مقایسه طعم و برند
+                            </span>
+
+                        </div>
+
+                    </button>
+
+
+                    <!-- تخم مرغ -->
+
+                    <button
+                        type="button"
+                        class="category-card category-button"
+                        data-category="تخم مرغ"
+                    >
+
+                        <div class="category-icon">
+                            🥚
+                        </div>
+
+                        <div class="category-info">
+
+                            <strong>
+                                تخم مرغ
+                            </strong>
+
+                            <span>
+                                مقایسه قیمت و گرید
+                            </span>
+
+                        </div>
+
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ================= PRODUCTS ================= -->
+
+        <section
+            id="products"
+            class="products-section"
+        >
+
+            <div class="section-container">
+
+                <div class="products-heading">
+
+                    <div>
+
+                        <span class="section-label">
+                            مقایسه قیمت
+                        </span>
+
+                        <h2>
+                            بهترین گزینه‌ها
+                        </h2>
+
+                    </div>
+
+
+                    <div
+                        id="productCount"
+                        class="product-count"
+                    >
+                        در حال دریافت...
+                    </div>
+
+                </div>
+
+
+                <!-- PRODUCTS -->
+
+                <div
+                    id="productsContainer"
+                    class="products-grid"
+                >
+
+                    <div class="loading">
+
+                        <div class="loading-spinner"></div>
+
+                        <span>
+                            در حال دریافت محصولات...
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ================= ABOUT ================= -->
+
+        <section
+            id="about"
+            class="about-section"
+        >
+
+            <div class="section-container">
+
+                <div class="about-card">
+
+                    <div class="about-icon">
+                        💜
+                    </div>
+
+                    <div>
+
+                        <span class="section-label">
+                            درباره قیمتیک
+                        </span>
+
+                        <h2>
+                            خرید هوشمندانه‌تر
+                        </h2>
+
+                        <p>
+                            قیمتیک با هدف ساده‌تر کردن
+                            مقایسه قیمت محصولات ساخته شده است.
+                            ما تلاش می‌کنیم قیمت محصولات را
+                            جمع‌آوری و در یک محیط ساده و
+                            کاربردی مقایسه کنیم تا بتوانید
+                            انتخاب بهتری داشته باشید.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer class="site-footer">
+
+        <div class="footer-container">
+
+            <div class="footer-brand">
+
+                <div class="footer-logo">
+                    <span class="logo-icon">ق</span>
+                    قیمتیک
+                </div>
+
+                <p>
+                    مقایسه کن، بهتر انتخاب کن.
+                </p>
+
+            </div>
+
+
+            <div class="footer-links">
+
+                <a href="#home">
+                    خانه
+                </a>
+
+                <a href="#products">
+                    محصولات
+                </a>
+
+                <a href="#about">
+                    درباره ما
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="footer-bottom">
+
+            © ۱۴۰۵ قیمتیک — تمامی حقوق محفوظ است.
+
+        </div>
+
+    </footer>
+
+
+
+    <!-- ================= JAVASCRIPT ================= -->
+
+    <!-- مهم: defer باعث می‌شود HTML اول کامل ساخته شود -->
+
+    <script
+        src="script.js"
+        defer
+    ></script>
+
+</body>
+
+</html>
