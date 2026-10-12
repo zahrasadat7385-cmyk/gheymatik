@@ -1,5 +1,5 @@
-const PRODUCTS_API = "http://127.0.0.1:8002/products";
-const BRANDS_API = "http://127.0.0.1:8002/brand-products";
+const PRODUCTS_API = "https://gheymatik.onrender.com/products";
+const BRANDS_API = "https://gheymatik.onrender.com/brand-products";
 
 const productsContainer = document.getElementById("productsContainer");
 const productCount = document.getElementById("productCount");
